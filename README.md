@@ -10,5 +10,4 @@ Uma console open source, leve e personalizável, desenvolvida para facilitar a e
 
 # ----------------------------------------------------
 
-Download Releases
-https://github.com/dyalncerqueira827-dot/GtConsole-framework/releases
+Download Releases: https://github.com/dyalncerqueira827-dot/GtConsole-framework/releases/tag/Downloads
