@@ -14,7 +14,7 @@ Uma console open source, leve e personalizável, desenvolvida para facilitar a e
 
 Baixe a versão desejada do **GtConsole** pela página oficial de Releases:
 
-**[GTConsole Releases — Downloads](https://github.com/dyalncerqueira827-dot/GtConsole-framework/releases/tag/Downloads)**
+**[GTConsole Releases — Downloads](https://github.com/dyalncerqueira827-dot/GtConsole-framework/releases)**
 
 Depois de baixar o arquivo `.tar.gz`, descompacte:
 
