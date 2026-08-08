@@ -10,4 +10,38 @@ Uma console open source, leve e personalizável, desenvolvida para facilitar a e
 
 # ----------------------------------------------------
 
-Download Releases: https://github.com/dyalncerqueira827-dot/GtConsole-framework/releases/tag/Downloads
+## 📦 Download e instalação
+
+Baixe a versão desejada do **GtConsole** pela página oficial de Releases:
+
+**[GTConsole Releases — Downloads](https://github.com/dyalncerqueira827-dot/GtConsole-framework/releases/tag/Downloads)**
+
+Depois de baixar o arquivo `.tar.gz`, descompacte:
+
+```bash
+tar -xzf GTConsole-*.tar.gz
+```
+
+Entre no diretório extraído:
+
+```bash
+cd GTConsole-*
+```
+
+Dê permissão de execução:
+
+```bash
+chmod +x GTconsole.py
+```
+
+Execute o GtConsole:
+
+```bash
+python3 GTconsole.py
+```
+
+### ⚡ Instalação rápida
+
+```bash
+tar -xzf GTConsole-*.tar.gz && cd GTConsole-* && chmod +x GTconsole.py && python3 GTconsole.py
+```
