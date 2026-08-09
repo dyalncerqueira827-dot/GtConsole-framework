@@ -18,12 +18,13 @@ Baixe a versão desejada do **GtConsole** pela página oficial de Releases:
 
 Depois de baixar o arquivo `.tar.gz`, descompacte:
 
-se voce instalou o GTconsole mais antigo tipo 1.14 pra baixo para descompactar e assim
+Se voce instalou o GTconsole 1.14
+descompacta assim
 ``` bash
 tar -xJf GTConsole-*.tar.xz
 ```
 
-agora se for um versão mais atualizada assim
+agora se for um versão mais atualizada assim ou 1.13 
 ```bash
 tar -xzf GTConsole-*.tar.gz
 ```
