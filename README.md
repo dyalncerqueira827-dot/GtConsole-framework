@@ -1,54 +1,65 @@
 # GTConsole — Console Open Source para Execução de Ferramentas
 
-Uma console open source, leve e personalizável, desenvolvida para facilitar a execução e o gerenciamento de ferramentas diretamente pelo terminal. O GTConsole busca oferecer uma experiência simples, rápida e organizada, permitindo centralizar diferentes ferramentas em uma única interface de console.
+O **GTConsole** é um console open source, leve e personalizável, desenvolvido para facilitar a execução e o gerenciamento de ferramentas diretamente pelo terminal.
 
-# ----------------------------------------------------
+O projeto busca oferecer uma experiência simples, rápida e organizada, permitindo centralizar diferentes ferramentas em uma única interface de console.
+
+---
 
 <div align="center">
-<img src="https://github.com/dyalncerqueira827-dot/GtConsole-framework/blob/main/GTconsole-screeshot.png" width="700px" />
+  <img src="https://github.com/dyalncerqueira827-dot/GtConsole-framework/blob/main/GTconsole-screeshot.png" width="700px" alt="Captura de tela do GTConsole" />
 </div>
 
-# ----------------------------------------------------
+---
 
 ## 📦 Download e instalação
 
-Baixe a versão desejada do **GtConsole** pela página oficial de Releases:
+Baixe a versão desejada do **GTConsole** na página oficial de Releases:
 
 **[GTConsole Releases — Downloads](https://github.com/dyalncerqueira827-dot/GtConsole-framework/releases)**
 
-Depois de baixar o arquivo `.tar.gz`, descompacte:
+Após baixar o arquivo, siga as instruções correspondentes ao formato disponibilizado.
 
-Se voce instalou o GTconsole 1.14
-descompacta assim
-``` bash
+### 1. Extração dos arquivos
+
+**GTConsole 1.14 (.tar.xz):**
+
+```bash
 tar -xJf GTConsole-*.tar.xz
 ```
 
-agora se for um versão mais atualizada assim ou 1.13 
+**GTConsole 1.13 ou versões distribuídas em `.tar.gz`:**
+
 ```bash
 tar -xzf GTConsole-*.tar.gz
 ```
 
-Entre no diretório extraído:
+### 2. Entre no diretório do projeto
 
 ```bash
 cd GTConsole-*
 ```
 
-Dê permissão de execução:
+### 3. Dê permissão de execução ao arquivo
 
 ```bash
 chmod +x GTconsole.py
 ```
 
-Execute o GtConsole:
+### 4. Execute o GTConsole
 
 ```bash
 python3 GTconsole.py
 ```
 
+---
+
 ### ⚡ Instalação rápida
+
+Para versões distribuídas em `.tar.gz`, você pode executar todas as etapas de uma só vez:
 
 ```bash
 tar -xzf GTConsole-*.tar.gz && cd GTConsole-* && chmod +x GTconsole.py && python3 GTconsole.py
 ```
+
+**Requisitos:** Python 3 e um terminal compatível com a execução de aplicações Python.
